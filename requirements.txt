@@ -1,0 +1,7 @@
+flask
+gunicorn
+face_recognition
+scikit-learn
+numpy
+Pillow
+tqdm
